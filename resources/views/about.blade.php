@@ -1,8 +1,7 @@
 @extends('layout')
 @section('title')
-    Contacts
+    About
 @endsection
-
 @section('content')
-    Contacts
+    About
 @endsection
